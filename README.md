@@ -1,5 +1,4 @@
 # LTFS Fin Hack 3
-<img src="logo.png" alt="Logo">
 
 ## Problem Statement
 
